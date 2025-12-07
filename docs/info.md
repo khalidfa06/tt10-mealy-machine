@@ -23,7 +23,7 @@ NONE
 
 ## Pinout
 
-### Inputs
+## Inputs
 
 | Pin     | Name |
 |---------|------|
@@ -36,7 +36,7 @@ NONE
 | ui[6]   |      |
 | ui[7]   |      |
 
-### Outputs
+## Outputs
 
 | Pin     | Name |
 |---------|------|
